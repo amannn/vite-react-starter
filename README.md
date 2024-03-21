@@ -6,7 +6,7 @@ Create a new local app like this:
 
 ```sh
 # Fetch files from this repo
-npx tiged amannn/vite-react-starter <folderName>
+npx tiged amannn/vite-react-starter YOUR_FOLDER_NAME
 
 # Install dependencies
 npm install
