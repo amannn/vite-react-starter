@@ -1,12 +1,12 @@
 # vite-react-starter
 
-A basic starter template for building React apps with Vite.
+A basic starter template for building apps with Vite.
 
 Create a new local app like this:
 
 ```sh
 # Fetch files from this repo
-npx tiged amannn/vite-react-starter YOUR_FOLDER_NAME
+npx tiged amannn/vite-react-starter#vanilla YOUR_FOLDER_NAME
 
 # Install dependencies
 npm install
