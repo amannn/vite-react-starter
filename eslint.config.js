@@ -10,9 +10,6 @@ export default tseslint.config(
       globals: {
         ...globals.browser
       }
-    },
-    rules: {
-      '@typescript-eslint/no-explicit-any': 0
     }
   }
 );
