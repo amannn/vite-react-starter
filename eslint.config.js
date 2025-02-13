@@ -26,8 +26,7 @@ export default tseslint.config(
       }
     },
     rules: {
-      ...reactHooksPlugin.configs.recommended.rules,
-      '@typescript-eslint/no-explicit-any': 0
+      ...reactHooksPlugin.configs.recommended.rules
     }
   }
 );
